@@ -5,7 +5,7 @@ MAINTAINER Adam Cecile <acecile@le-vert.net>
 ENV TERM xterm
 ENV HOSTNAME bminer-cuda.local
 ENV DEBIAN_FRONTEND noninteractive
-ENV URL https://github.com/develsoftware/GMinerRelease/releases/download/1.36/gminer_1_36_minimal_linux64.tar.xz
+ENV URL https://github.com/develsoftware/GMinerRelease/releases/download/2.73/gminer_2_73_linux64.tar.xz
 
 WORKDIR /root
 
